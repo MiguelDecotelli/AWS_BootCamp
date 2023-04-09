@@ -3,11 +3,11 @@
 ## Utilização da autenticação do Amazon Cognito para inserção em tabela Dynamo com função Lambda
 
 ### Serviços utilizados / Etapas de criação:
-Amazon API Gateway
-Amazon DynamoDB
-Amazon Lambda
-Amazon Cognito
-Postman
+- Amazon API Gateway
+- Amazon DynamoDB
+- Amazon Lambda
+- Amazon Cognito
+- Postman
 
 ### Criação de API REST no API Gateway:
 Ao abrir o "Dashboard" selecionar a opção de criar uma API, escolher a opção "REST API" (não privada) e clicar em "BUILD".
